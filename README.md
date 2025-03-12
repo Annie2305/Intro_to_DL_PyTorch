@@ -1,1 +1,1 @@
-# intro-to-dl-pytorch
+# Intro-to-dl-pytorch
